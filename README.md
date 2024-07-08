@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agamb62
+- 👋 Hi, I’m Agambir Singh
 - 👀 I’m interested in Machine Learning & Artificial Intelligence
 - 🌱 I’m currently learning CS50P
 - 💞️ I’m looking to collaborate on pyhon projects
