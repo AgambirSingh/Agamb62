@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agambir Singh
 - 👀 I’m interested in Machine Learning & Artificial Intelligence
 - 🌱 I’m currently learning CS50P
-- 💞️ I’m looking to collaborate on pyhon projects
+- 💞️ I’m looking to collaborate on python projects
 - 📫 To reach me email at sinagamb@sheridancollege.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Basketball Athlete & Coach xd
